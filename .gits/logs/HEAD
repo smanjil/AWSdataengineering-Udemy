@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 f744db1f66f42032e6485ab0c7122eb398dc633b Manjil <shresthamanjil21@gmail.com> 1596197639 +0200	clone: from git@gitlab.com:smanjil1/aws-data-engineering.git
+f744db1f66f42032e6485ab0c7122eb398dc633b a68b5be2323f4c9410bd7984ed2fe15bbeafa3d2 Manjil <shresthamanjil21@gmail.com> 1596197767 +0200	commit: small fix
+a68b5be2323f4c9410bd7984ed2fe15bbeafa3d2 2dd4ca119e17955715a3205dedc342977b067991 Manjil <shresthamanjil21@gmail.com> 1596208964 +0200	commit: hourly incremental job
+2dd4ca119e17955715a3205dedc342977b067991 5b0f2e5a3b6cd7e7490c6d2e124484e0004edee1 Manjil <shresthamanjil21@gmail.com> 1597761392 +0200	commit: Glue python script
