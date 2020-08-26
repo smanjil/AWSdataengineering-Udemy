@@ -163,7 +163,7 @@ This thing will roughly take about 5 to 10 minutes to finish.
     - In RDS, run:
         - select count(*) from ecommerce_db.orders where date
 (order_purchase_timestamp) <= '2018-09-31';  (should also give, 99437)
-- If this same, its good, else recheck the pipeline query.  (There could be
+- If this is same, its good, else recheck the pipeline query.  (There could be
  some 'timestamp' mismatch in the pipeline query.
 ```
 
